@@ -13,6 +13,7 @@ Xf = 1.2,
 Yf = -0.6, 
 
 Where :
+
 L1 and L2 represent the lengths of link 1 and link 2, respectively.
 
 N denotes the number of Simulated Pathway Checkpoints.
