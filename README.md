@@ -1,4 +1,4 @@
-# Line-Trajectory-Planning-for-2-links-Arm-Robot-2--DOF-Using Matlab
+# Line-Trajectory-Planning-for-2-links-Arm-Robot-2--DOF
 
 ### For :
 L1 = 1.2,
