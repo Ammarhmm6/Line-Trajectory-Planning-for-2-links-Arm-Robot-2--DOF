@@ -14,8 +14,11 @@ Yf = -0.6,
 
 Where :
 L1 and L2 represent the lengths of link 1 and link 2, respectively.
+
 N denotes the number of Simulated Pathway Checkpoints.
+
 Xi and Yi refer to the coordinates of the trajectory's initial point.
+
 Xf and Yf denote the coordinates of the trajectory's final point.
 
 ### The result:
